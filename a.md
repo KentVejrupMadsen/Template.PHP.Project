@@ -24,9 +24,8 @@ Contact Information:
 * [Phone](.)
 * [Github](link)
 
-Made using: [Template.Prototype](https://github.com/KentVejrupMadsen/template.prototype)
+Made using: [Template.Project.PHP](https://github.com/KentVejrupMadsen/Template.Project.PHP)
 
 Created at: [Date]
 
 Last updated at: [Date]
-
